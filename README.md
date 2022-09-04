@@ -17,7 +17,7 @@
 <h2>⚡ QA engineer intern projects:</h2>
 
 - <b>Testing Playwright with Gauge</b>
-  - [ Task 2  (Typescript | Playwright | Gauge)](https://github.com/GKARLOZ/typescript-tutorial)
+  - [ Task 2  (Typescript | Playwright | Gauge)](https://github.com/GKARLOZ/QA-Testing-Gauge-Playwright)
 
 <h2>⚡ Personal Projects:</h2>
     
