@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gian! 👋<br/><a href="https://www.linkedin.com/in/giancarlo-bustos-578a9318a/"> QA Engineer | SDET </a>
+<h1>Hi, I'm Gian! 👋<br/><a href="https://www.linkedin.com/in/giancarlo-bustos-578a9318a/"> Software Developer Engineer in Test </a>
 
 <h2>👨‍💻 Western Governors University Projects:</h2>
 
