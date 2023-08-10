@@ -14,10 +14,14 @@
 - <b>Course: Computer Science Capstone</b>
   - [Movie Recommender  (Python)](https://github.com/GKARLOZ/Movie-Recommender-Genres-Keywords)
   
-<h2>⚡ QA engineer intern projects:</h2>
+<h2>⚡ Test Automation Internship Projects:</h2>
 
-- <b>UI Automation Testing </b>
-  - [ Playwright with Gauge (Typescript)](https://github.com/GKARLOZ/QA-Testing-Gauge-Playwright)
+- <b>Carina Framework </b>
+  - [WEB,API, MOBILE TEST](https://github.com/GKARLOZ/Solvd_Carina_Project)
+- <b>Taxi Service </b>
+  - [ Java, MySQL, MyBatis, JDBC](https://github.com/GKARLOZ/solvd_taxi_service)
+- <b>Navigator (Group Project) </b>
+  - [ Java, MySQL, MyBatis, Dijkstra Algo](https://github.com/GKARLOZ/Navigator)
 
 <h2>⚡ Personal Projects:</h2>
     
