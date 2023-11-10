@@ -3,7 +3,7 @@
 <h4>
   
 - 🔭 I’m currently working on creating a complete [Testing Framework for OpenWeather.com](https://github.com/GKARLOZ/OpenWeather-Testing-Framework)
-- 🌱 I’m currently learning Java, Selenium, Appium 
+- 🌱 I’m currently learning Java, Selenium, Appium, Docker, Jenkins 
 - 🤔 I’m looking for help with Test Automation
 - 💬 Ask me about my projects.
 - 📫 How to reach me: GianBustos04@gmail.com 
