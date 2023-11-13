@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on creating a complete [Testing Framework for OpenWeather.com](https://github.com/GKARLOZ/OpenWeather-Testing-Framework)
 - 🌱 I’m currently learning Java, Selenium, Appium, Docker, Jenkins 
 - 🤔 I’m looking for help with Test Automation
-- 💬 Ask me about my projects.
+- 💬 Ask me about my projects or check out my Portfolio: https://giancodes.com/ 
 - 📫 How to reach me: GianBustos04@gmail.com 
-- ⚡ Fun fact: I enjoy chess and soccer
+- ⚡ Fun fact: I enjoy chess, soccer and coding
 
 <h2>👨‍💻 Best Projects Yet!:</h2>
   
@@ -24,7 +24,6 @@
     
 - [  Mario Bricks (Java)](https://github.com/GKARLOZ/Mario-Brick-Breaker)
 - [  Mario Fly (Java)](https://github.com/GKARLOZ/FlyingMario-Snake-TurtleShells)
-- [  Mario vs Shreck (Javascript | HTML | CSS)](https://codepen.io/mars71/pen/GRmXGWY)
 - [  Portfolio Website (HTML/CSS)](https://github.com/GKARLOZ/GKARLOZ.github.io)
 
 <h2> 🤳 Connect with me:</h2>
