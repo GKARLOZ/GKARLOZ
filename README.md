@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gian! 👋<br/><a href="https://www.linkedin.com/in/giancarlo-bustos-578a9318a/"> Test Automation Engineer </a> </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gkarloz&label=Profile%20views&color=0e75b6&style=flat" alt="gkarloz" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkarloz&label=Profile%20views&color=0e75b6&style=flat" alt="gkarloz" /> </p> -->
 
 <h4>
   
