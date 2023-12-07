@@ -6,8 +6,8 @@
 <h4>
   
 - 🔭 I’m currently working on creating a complete [Testing Framework for OpenWeather.com](https://github.com/GKARLOZ/OpenWeather-Testing-Framework)
-- 🌱 I’m currently learning Java, Selenium, Appium, Docker, Jenkins 
-- 🤔 I’m looking for help with Test Automation
+- 🤔 This project will include the following files: FRS, test plan, test cases, bug reports and traceability matrix.
+  <!-- - 🌱 I’m currently learning Java, Selenium, Appium, Docker, Jenkins -->
 - 💬 Ask me about my projects or check out my Portfolio: https://giancodes.com/ 
 - 📫 How to reach me: GianBustos04@gmail.com 
 - ⚡ Fun fact: I enjoy chess, soccer and coding
