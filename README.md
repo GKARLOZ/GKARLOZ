@@ -6,7 +6,7 @@
 <h4>
   
 - 🔭 I’m currently working on [OpenWeather Testing Framework](https://github.com/GKARLOZ/OpenWeather-Testing-Framework)
-- 🤔 This project will include the following: FRS, test plan, test cases, bug reports, traceability matrix, test suites, and testing framework. 
+- 🤔 This project will include the following: FRS, test plan, test cases, bug reports, test suites, and testing framework. 
   <!-- - 🌱 I’m currently learning Java, Selenium, Appium, Docker, Jenkins -->
 - 💬 Ask me about my projects or check out my Portfolio: https://giancodes.com/ 
 - 📫 How to reach me: GianBustos04@gmail.com 
